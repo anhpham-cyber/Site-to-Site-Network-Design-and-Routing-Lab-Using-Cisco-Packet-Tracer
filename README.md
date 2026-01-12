@@ -39,13 +39,7 @@ By completing these labs, the following objectives are achieved:
 - **Edmonton Site:** PC2 → Switch2 → Router_Edmonton  
 - **Router-to-Router Link:** Routers are connected to enable inter-site communication  
 
----
-
-## Usage
-1. Open the `.pkt` file in **Cisco Packet Tracer**.  
-2. Follow the step-by-step configuration instructions for each routing method.  
-3. Use `ping` and `show ip route` commands to verify connectivity.  
-4. Screenshots in the `Screenshots/` folder show expected results for reference.  
+<img width="439" height="369" alt="IP routing setup" src="https://github.com/user-attachments/assets/e5a71c17-7dfc-4d2e-b347-ff8e74945462" />
 
 ---
 
